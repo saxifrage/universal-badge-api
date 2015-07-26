@@ -27,6 +27,7 @@
 - doesn't seem to concern itself with any formal boards/evidence/additional metadata/etc
 
 ###Actionables
-1. Talk to folks at Badgr
-2. Continue thinking about an ideal badge API
-3. Implement
+1. Mockup UX of badge creation/endpoints (include competency/associated scale "tags") 
+2. Talk to folks at Badgr
+3. Continue thinking about an ideal badge API
+4. Implement
