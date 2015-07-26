@@ -1,7 +1,6 @@
 # universal-badge-api
 
-Ideal badge API to hold/archive learner data:
-=========================================
+##Ideal badge API to hold/archive learner data:
 - is open source
 - 100% centralized (using the cloud)
 - "one stop shop" for all consuming education platforms to issue/retrieve badges over a learner's lifetime
@@ -15,8 +14,7 @@ Ideal badge API to hold/archive learner data:
 - badges need to be approved by a board of volunteers (not just added arbitrarily)
 - organizations/instructors need to be one-time-approved by a board of volunteers
 
-Existing solution, http://info.badgr.io/
-========================================
+##Existing solution, http://info.badgr.io/
 - is decentralized
 - is relatively mature
 - focuses on verifying badges via endorsements
@@ -28,8 +26,7 @@ Existing solution, http://info.badgr.io/
 - is not just an API, it also contains an iOS/Android/Web client app
 - doesn't seem to concern itself with any formal boards/evidence/additional metadata/etc
 
-Actionables
-===========
+###Actionables
 1. Talk to folks at Badgr
 2. Continue thinking about an ideal badge API
 3. Implement
