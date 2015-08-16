@@ -10,7 +10,9 @@
 - allows learner to choose the level of permission they grant to the learning platform (provides good scoping... can publish badges to LinkedIn using assertion, for example)
 
 ###Actionables
-1. Mockup UX of badge creation/endpoints (include competency/associated scale "tags") 
-2. Share idea with folks at Badgr
-3. Share idea with folks at Badge Alliance
-4. Implement
+1. discussion (completed)
+2. Mockup UX/UI of badge creation (include competency/associated scale "tags") (https://github.com/saxifrage/universal-badge-api/issues/3)
+3. Write up RESTful API endpoints (https://github.com/saxifrage/universal-badge-api/issues/2)
+4. Share idea with folks at Badgr
+5. Share idea with folks at Badge Alliance
+6. Implement, if validated
